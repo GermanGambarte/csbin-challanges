@@ -1,0 +1,22 @@
+body {
+  background-color: #2c324a;
+  color: #7982a9;
+  font-family: 'JetBrains Mono', monospace;
+  line-height: 1.5;
+}
+
+code {
+  background-color: #7e83b233;
+  border-radius: .2rem;
+  color:#a9b1d6;
+  font-family: 'JetBrains Mono', monospace;
+  padding-inline: .5rem;
+}
+
+h1, h3 {
+  color:#a9b1d6;
+}
+
+h1 {
+  text-align: center;
+}
